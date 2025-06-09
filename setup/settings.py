@@ -16,6 +16,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['agenda-django-felipe.onrender.com']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
